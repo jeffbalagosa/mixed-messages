@@ -21,4 +21,4 @@ This is the repo for the "Mixed Messages" project on the Codecademy full stack d
   - Every time it's ran it will print a phrase to the console.
   - The phrase itself will be randomized.
   - There will be at least 1 noun and 1 verb within the phrase that'll also be randomized.
-  - Similar to mad libs
+  - Similar to the mad libs kids games, some of you may have played. (https://www.madlibs.com/)
