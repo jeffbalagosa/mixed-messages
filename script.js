@@ -172,7 +172,7 @@ const phrase = [
   `If the ${listPicker(noun)} is too ${listPicker(
     adjective
   )}, remember you always have time to ${listPicker(verb)} it again.`,
-  `She was so used to the ${listPicker(noun)} being ${listPicker(
+  `She was so used to the ${listPicker(noun)} being so ${listPicker(
     adjective
   )}, she totally forgot to ${listPicker(verb)} it.`,
   `He needed to ${listPicker(verb)} over the ${listPicker(
@@ -183,6 +183,9 @@ const phrase = [
   )}.  The only choice they had was to ${listPicker(
     verb
   )} it up the ${listPicker(noun)}.`,
+  `Sometimes, when I feel ${listPicker(adjective)}, I open my ${listPicker(
+    noun
+  )}, and ${listPicker(verb)} until I am ${listPicker(adjective)}.`,
 ];
 
 console.log(listPicker(phrase));
